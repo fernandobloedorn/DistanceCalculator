@@ -5,7 +5,7 @@ This project is ideal for anyone who wants to learn how to create a simple API i
 
 The project also emphasizes the use of unit tests for all end points.
 
-# Example
+# Example of unit test
 ```php
 <?php
 
